@@ -6,7 +6,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam </h3>
 </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/kumamon-runner.gif" alt="kumamon" /></p>
