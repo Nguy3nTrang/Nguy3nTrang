@@ -12,8 +12,7 @@
 
 - ✍ I'm a student of: [Van Lang University ](https://www.vlu.edu.vn/) - VLU.
 
-- 🌱 I’m currently learning **Deep learning and Computer vision.**
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Fullstack Developer.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nguy3nTrang](https://github.com/Nguy3nTrang)
 
@@ -23,7 +22,9 @@
 ## 📫 How to reach me:
 Email: ***mautrang0543@gmail.com***
 <p align="center">
-  <a href="https://www.facebook.com/trangnguyen54k3" alt="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" /></a> <a href="https://github.com/Nguy3nTrang" alt="Github"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a> <a href="." alt="Youtube channel" target="_blank" ><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/></a><a href="." target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <a href="https://www.facebook.com/trangnguyen54k3" alt="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" /></a> 
+  <a href="https://github.com/Nguy3nTrang" alt="Github"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a> 
+  <a href="." target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
 </p>
 
